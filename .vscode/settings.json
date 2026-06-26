@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\Basic_Langchain_demo\\.venv\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\Basic_Langchain_demo\\.venv\\Lib\\site-packages"
+  ]
+}
